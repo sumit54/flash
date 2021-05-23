@@ -1,7 +1,13 @@
 import java.util.Iterator;
 
 class Abc {
+
 	//test
+
+	void tt()
+	{
+	}
+
 	
 	public void testname() throws Exception {
 		System.out.println();
