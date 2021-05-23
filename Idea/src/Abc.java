@@ -2,6 +2,10 @@ import java.util.Iterator;
 
 class Abc {
 	//test
+	private void yy() {
+		// TODO Auto-generated method stub
+
+	}
 	
 	public void testname() throws Exception {
 		System.out.println();
