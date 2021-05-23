@@ -1,7 +1,7 @@
 import java.util.Iterator;
 
 class Abc {
-	#test
+	//test
 	
 	public void testname() throws Exception {
 		System.out.println();

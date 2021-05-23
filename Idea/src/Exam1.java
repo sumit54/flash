@@ -1,6 +1,6 @@
 
 class Node {
-	#test
+	//test
 	int data;
 	Node left, right;
 
