@@ -1,6 +1,9 @@
 import java.util.Iterator;
 
 class Abc {
+	void tt()
+	{
+	}
 	#test
 	
 	public void testname() throws Exception {
