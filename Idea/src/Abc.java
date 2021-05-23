@@ -1,6 +1,11 @@
 import java.util.Iterator;
 
 class Abc {
+	
+	
+	public void testname() throws Exception {
+		
+	}
     
     public static void main(String[] args)
     {
