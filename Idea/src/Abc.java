@@ -4,7 +4,7 @@ class Abc {
 	#test
 	
 	public void testname() throws Exception {
-		
+		System.out.println();
 	}
     
     public static void main(String[] args)
