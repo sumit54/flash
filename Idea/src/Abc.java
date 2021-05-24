@@ -14,6 +14,16 @@ class Abc {
 	}
 
 	
+	private void kk12() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void yy() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	public void testname() throws Exception {
 		System.out.println();
 	}
