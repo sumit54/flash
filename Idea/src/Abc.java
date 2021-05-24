@@ -1,8 +1,18 @@
 import java.util.Iterator;
 
 class Abc {
+
 	//test
 	
+	private void yy() {
+		// TODO Auto-generated method stub
+
+	}
+
+	void tt()
+	{
+	}
+
 	
 	private void kk12() {
 		// TODO Auto-generated method stub
