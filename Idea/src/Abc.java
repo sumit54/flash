@@ -2,6 +2,13 @@ import java.util.Iterator;
 
 class Abc {
 	//test
+	
+	
+	private void kk12() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	private void yy() {
 		// TODO Auto-generated method stub
 
