@@ -3,6 +3,11 @@ import java.util.Iterator;
 class Abc {
 
 	//test
+	
+	private void yy() {
+		// TODO Auto-generated method stub
+
+	}
 
 	void tt()
 	{
